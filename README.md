@@ -1,3 +1,2 @@
-# First repo.
+# Test repo.
 
-Create a landing page for personal blog
